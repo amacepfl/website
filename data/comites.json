@@ -1,0 +1,94 @@
+[
+    {
+        "year": "2022-2023",
+        "members": [
+            {
+                "name": "Axel Guède",
+                "role": "Président",
+                "icon": "fas fa-microphone-alt",
+                "email": "president@amacepfl.ch"
+            },
+            {
+                "name": "Mohamed Shahine Alhilali",
+                "role": "Vice-Président",
+                "icon": "fas fa-user-friends",
+                "email": "vice-president@amacepfl.ch"
+            }, {
+                "name": "Loris Perujo",
+                "role": "Trésorier",
+                "icon": "fas fa-money-bill-wave",
+                "email": "tresorier@amacepfl.ch"
+            }, {
+                "name": "Mickaël Antille",
+                "role": "Responsable Animation",
+                "icon": "fas fa-gamepad",
+                "email": "animation@amacepfl.ch"
+            }, {
+                "name": "Louis Seurre",
+                "role": "Responsable Communication",
+                "icon": "fas fa-bullhorn",
+                "email": "communication@amacepfl.ch"
+            }, {
+                "name": "Alessandro Ferrante",
+                "role": "Responsable MécaTravel",
+                "icon": "fas fa-car",
+                "email": "mecatravel@amacepfl.ch"
+            }, {
+                "name": "Bodhi Legeret",
+                "role": "Responsable Sports",
+                "icon": "fas fa-futbol",
+                "email": "sports@amacepfl.ch"
+            }, {
+                "name": "Antonin Faure",
+                "role": "Webmaster",
+                "icon": "fas fa-code",
+                "email": "webmaster@amacepfl.ch"
+            }
+        ]
+    }, {
+        "year": "2021-2022",
+        "members": [
+            {
+                "name": "Antonin Faure",
+                "role": "Président",
+                "icon": "fas fa-microphone-alt",
+                "email": "president@amacepfl.ch"
+            }, {
+                "name": "Garance Rocheteau",
+                "role": "Vice-Présidente",
+                "icon": "fas fa-user-friends",
+                "email": "vice-presidente@amacepfl.ch"
+            }, {
+                "name": "Nadim Daher",
+                "role": "Trésorier",
+                "icon": "fas fa-money-bill-wave",
+                "email": "tresorier@amacepfl.ch"
+            }, {
+                "name": "Riccardo Sansone",
+                "role": "Responsable Animation",
+                "icon": "fas fa-gamepad",
+                "email": "animation@amacepfl.ch"
+            }, {
+                "name": "Hugues-Albert König",
+                "role": "Responsable Communication",
+                "icon": "fas fa-bullhorn",
+                "email": "communication@amacepfl.ch"
+            }, {
+                "name": "Axel Guède",
+                "role": "Responsable MécaTravel",
+                "icon": "fas fa-car",
+                "email": "mecatravel@amacepfl.ch"
+            }, {
+                "name": "Benjamin Quilichini",
+                "role": "Responsable Formation",
+                "icon": "fas fa-graduation-cap",
+                "email": "formation@amacepfl.ch"
+            }, {
+                "name": "Hugo Penichou",
+                "role": "Responsable Sponsoring",
+                "icon": "fas fa-handshake",
+                "email": "sponsoring@amacepfl.ch"
+            }
+        ]
+    }
+]

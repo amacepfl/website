@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/amacepfl/"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/amac_epfl/"
+    },
+    {
+      "name": "website",
+      "icon": "fas fa-envelope",
+      "link": "mailto:amac@epfl.ch"
+    }
+  ]
+}

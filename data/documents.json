@@ -1,0 +1,35 @@
+{
+    "statuts": "https://drive.google.com/file/d/1c6rzp2ve9QZm_fefIrM2qXUOSifmIfSb/view?usp=share_link",
+    "ag": [
+        {
+            "name": "AG du 2 novembre 2022",
+            "url": ""
+        }, {
+            "name": "AG du 20 octobre 2021"
+        }, {
+            "name": "AG du 3 novembre 2020"
+        }, {
+            "name": "AG du 5 novembre 2019"
+        }, {
+            "name": "AG du 25 septembre 2018"
+        }, {
+            "name": "AG du 25 octobre 2017"
+        }, {
+            "name": "AG du 21 mars 2017"
+        }
+    ],
+    "rapports": [
+        {
+            "name": "Rapport d'activités 2021-2022",
+            "url": ""
+        },
+        {
+            "name": "Rapport d'activités 2020-2021",
+            "url": ""
+        },
+        {
+            "name": "Rapport d'activités 2019-2020",
+            "url": ""
+        }
+    ]
+}

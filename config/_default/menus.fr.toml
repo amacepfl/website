@@ -1,0 +1,59 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Comité"
+url = "comite/"
+weight = 2
+
+[[main]]
+weight = 3
+name = "Commissions"
+hasChildren = true
+
+[[main]]
+parent = "Commissions"
+name = "Pôle Anim'"
+url = "animation/"
+
+[[main]]
+parent = "Commissions"
+name = "Pôle Formation"
+url = "formation/"
+
+[[main]]
+parent = "Commissions"
+name = "Méca Travel"
+url = "mecatravel/"
+
+[[main]]
+weight = 4
+name = "L'Association"
+url = "association/"
+
+[[main]]
+weight = 5
+name = "Galerie"
+url = "gallery/"
+
+[[main]]
+weight = 6
+name = "Boutique"
+url = "shop/"
+
+
+# footer menu
+[[footer]]
+name = "A propos"
+url = "association/"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "mailto:amac@epfl.ch"
+weight = 2

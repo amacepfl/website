@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-7">
+        {{ if .Params.image }}
+        {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
+        {{ end }}
+        <h1>{{ .Title }}</h1>
+        {{ if .Params.subtitle }}
+        <span class="text-2xl text-gray-600 italic">{{ .Params.subtitle }}</span>
+        {{ end }}
+        <div class="content">{{ .Content }}</div>
+        {{ $comites := index .Site.Data "comites" }}
+        <div class="content">
+          <h3>Comités</h3>
+          {{ range $comites }}
+          <div class="accordion">
+            <button class="accordion-header" data-accordion>
+              Comité {{ .year }}
+              <svg class="accordion-icon" x="0px" y="0px" viewBox="0 0 512 512" xmlspace="preserve">
+                <path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path>
+              </svg>
+            </button>
+            <div class="accordion-content">
+              <table>
+                <tbody>
+                  {{ range .members }}
+                  <tr>
+                    <th><i class="{{ .icon }}"></i> {{ .role }}</th>
+                    <td><a href="mailto:{{ .email }}">{{ .name }}</a></td>
+                  </tr>
+                  {{ end }}
+                </tbody>
+              </table>
+            </div>
+          </div>
+          {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
