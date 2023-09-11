@@ -26,13 +26,13 @@
             <h6 class="mt-3 mb-2 italic font-bold dark:text-dark">PV d'Assemblée Générale</h6>
             <div class="flex flex-col gap-3">
               {{ range $data.ag }}
-              <a href="{{ .url }}">{{ .name }}</a>
+              <a href="{{ .url }}" class="dark:hover:text-primary">{{ .name }}</a>
               {{ end }}
             </div>
             <h6 class="mt-5 mb-2 italic font-bold dark:text-dark">Rapports d'activités</h6>
             <div class="flex flex-col gap-3">
               {{ range $data.rapports }}
-              <a href="{{ .url }}">{{ .name }}</a>
+              <a href="{{ .url }}" class="dark:hover:text-primary">{{ .name }}</a>
               {{ end }}
             </div>
           </div>
