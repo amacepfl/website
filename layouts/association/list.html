@@ -13,23 +13,23 @@
         <div class="content">{{ .Content }}</div>
       </div>
       <div class="lg:col-5 lg:px-10">
-        <div class="flex flex-col gap-5">
+        <div class="flex flex-col gap-5 dark:text-dark">
           {{ $data := index .Site.Data "documents"}}
-          <div class="col-12 shadow rounded-xl p-8 text-center">
-            <h5 class="mb-3 font-bold">Statuts de l'Association</h5>
+          <div class="col-12 shadow rounded-xl p-8 text-center dark:bg-white">
+            <h5 class="mb-3 font-bold dark:text-dark">Statuts de l'Association</h5>
             <p>En tant qu'association étudiante, nos statuts sont tenus d'être publics et à jour.</p>
-            <a class="btn btn-primary mt-3" href="{{ $data.statuts}}">Nos statuts</a>
+            <a class="btn btn-primary mt-3 dark:bg-primary dark:text-white dark:hover:bg-light dark:hover:text-dark" href="{{ $data.statuts}}">Nos statuts</a>
           </div>
-          <div class="col-12 shadow rounded-xl p-8">
-            <h5 class="font-bold mb-2">Documents officiels</h5>
+          <div class="col-12 shadow rounded-xl p-8 dark:bg-white">
+            <h5 class="font-bold mb-2 dark:text-dark">Documents officiels</h5>
             <p>Voici les derniers documents officiels en date de l'Association</p>
-            <h6 class="mt-3 mb-2 italic font-bold">PV d'Assemblée Générale</h6>
+            <h6 class="mt-3 mb-2 italic font-bold dark:text-dark">PV d'Assemblée Générale</h6>
             <div class="flex flex-col gap-3">
               {{ range $data.ag }}
               <a href="{{ .url }}">{{ .name }}</a>
               {{ end }}
             </div>
-            <h6 class="mt-5 mb-2 italic font-bold">Rapports d'activités</h6>
+            <h6 class="mt-5 mb-2 italic font-bold dark:text-dark">Rapports d'activités</h6>
             <div class="flex flex-col gap-3">
               {{ range $data.rapports }}
               <a href="{{ .url }}">{{ .name }}</a>
