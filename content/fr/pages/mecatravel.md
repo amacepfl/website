@@ -8,7 +8,7 @@ description: "Pôle Méca Travel de l'AMAC"
 # save as draft
 draft: false
 banner:
-    url: "images/banner-anim.jpg"
+    url: "images/banner-mecatravel.jpg"
     position: "50% 70%"
 socials:
     - social: instagram
