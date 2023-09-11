@@ -3,7 +3,7 @@ title: "Le Comité"
 # meta title
 meta_title: ""
 # meta description
-description: "Comité"
+description: "Comité de l'AMAC"
 # save as draft
 draft: false    
 ---

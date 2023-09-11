@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Actualités"
 meta_title: ""
-description: "this is meta description"
+description: "Actualités de l'AMAC"
 ---

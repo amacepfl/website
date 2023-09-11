@@ -20,8 +20,8 @@
 {{ end }}
 <!-- /Banner -->
 
-<!-- Features -->
-{{ range $i, $e:= .Params.features }}
+<!-- Sections -->
+{{ range $i, $e:= .Params.sections }}
 <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
   <div class="container">
     <div class="row items-center justify-between">
@@ -60,13 +60,14 @@
   </div>
 </section>
 {{ end }}
-<!-- /Features -->
+<!-- /Sections -->
 
 {{ $paginator := $.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) 10 }}
 
 <!-- Posts -->
 {{ with site.GetPage "sections/actualites" }}
 {{ if .Params.enable }}
+{{ if gt $paginator.TotalPages 1 }}
 <section class="section bg-gradient">
   <div class="container px-6">
     <div class="row">
@@ -93,6 +94,7 @@
     </div>
   </div>
 </section>
+{{ end }}
 {{ end }}
 {{ end }}
 <!-- /Posts -->

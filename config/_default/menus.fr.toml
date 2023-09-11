@@ -33,18 +33,8 @@ url = "mecatravel/"
 
 [[main]]
 weight = 4
-name = "L'Association"
+name = "Association"
 url = "association/"
-
-[[main]]
-weight = 5
-name = "Galerie"
-url = "gallery/"
-
-[[main]]
-weight = 6
-name = "Boutique"
-url = "shop/"
 
 
 # footer menu

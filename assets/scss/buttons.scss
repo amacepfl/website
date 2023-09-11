@@ -1,0 +1,23 @@
+.btn {
+  @apply inline-block rounded border border-transparent px-5 py-2 font-semibold capitalize transition;
+}
+
+.btn-sm {
+  @apply rounded-sm px-4 py-1.5 text-sm;
+}
+
+.btn-primary {
+  @apply border-primary bg-primary dark:border-darkmode-primary dark:text-dark text-white dark:bg-white hover:bg-light hover:border-light hover:text-white hover:dark:bg-light hover:dark:border-light hover:dark:text-white;
+}
+
+.btn-outline-primary {
+  @apply border-dark text-dark hover:bg-dark dark:hover:text-dark bg-transparent hover:text-white dark:border-white dark:text-white dark:hover:bg-white;
+}
+
+.btn-dark {
+  @apply border-dark bg-dark dark:border-darkmode-primary dark:text-dark text-white dark:bg-white hover:bg-light hover:text-white hover:border-light dark:hover:bg-light dark:hover:border-light dark:hover:text-white;
+}
+
+.btn-outline-dark {
+  @apply border-dark text-dark hover:bg-dark dark:hover:text-dark bg-transparent hover:text-white dark:border-white dark:text-white dark:hover:bg-white;
+}

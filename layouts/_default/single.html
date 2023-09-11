@@ -1,0 +1,45 @@
+{{ define "main" }}
+<section class="section-sm">
+
+  <!-- Banner -->
+  {{ if .Params.banner }}
+  <section class="section p-0 m-0">
+    <div class="row banner flex flex-col m-0 p-0 items-center justify-end" {{ partial `bg-image.html` (dict `Src`
+      .Params.banner.url `Position` .Params.banner.position ) | safeHTMLAttr}}>
+      <svg class="m-0 p-0 flex" xmlns="http://www.w3.org/2000/svg" viewBox="0 180 1440 120">
+        <path class="fill-body dark:fill-darkmode-body" fill-opacity="1"
+          d="M0,224L120,234.7C240,245,480,267,720,272C960,277,1200,267,1320,261.3L1440,256L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z">
+        </path>
+      </svg>
+    </div>
+  </section>
+  {{ end }}
+  <!-- /Banner -->
+
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-7">
+        {{ if .Params.image }}
+        {{ partial "image" (dict "Src" .Params.image "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
+        {{ end }}
+        <h2 class="mb-0">{{ .Title }}</h2>
+        {{ if .Params.subtitle }}
+        <span class="text-2xl text-gray-600 italic">{{ .Params.subtitle }}</span>
+        {{ end }}
+        <div class="content">{{ .Content }}</div>
+        {{ if .Params.socials }}
+        <ul class="social-icons px-0">
+          {{ range $social := .Params.socials }}
+          <li>
+            <a href="{{ $social.url }}" target="_blank" rel="nofollow noopener">
+              <i class="{{ $social.icon }}"></i>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
