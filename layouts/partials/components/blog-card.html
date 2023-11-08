@@ -1,9 +1,9 @@
 <div class="bg-body dark:bg-darkmode-body">
   {{ $image:= .Params.thumbnail }}
   {{ if $image }}
-  <div>
+  <a href="{{ .RelPermalink }}">
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded-t-xl") }}
-  </div>
+  </a>
   {{ end }}
   <div class="bg-darkmode-body dark:bg-body text-white dark:text-dark p-6 {{ if $image }}rounded-b-xl{{else}}rounded-xl{{end}} flex flex-col">
     <h4 class="mb-3 text-white dark:text-dark">
