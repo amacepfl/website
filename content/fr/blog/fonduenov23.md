@@ -11,7 +11,7 @@ image: "/images/blog/fonduenov23.png"
 
 C'est le retour de la classique fondue GM !
 
-Viens déguster une fondue au fromage le 23 novembre 2023 dès 19h à **l'Ornithorynque**.
+Viens déguster une fondue au fromage le 16 novembre 2023 dès 19h à **l'Ornithorynque**.
 
 <div class="text-start">
 <script async src="https://js.stripe.com/v3/buy-button.js"></script><stripe-buy-button 
