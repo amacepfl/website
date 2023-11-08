@@ -67,7 +67,7 @@
 <!-- Posts -->
 {{ with site.GetPage "sections/actualites" }}
 {{ if .Params.enable }}
-{{ if gt $paginator.TotalPages 1 }}
+{{ if gt $paginator.TotalPages 0 }}
 <section class="section bg-gradient">
   <div class="container px-6">
     <div class="row">
