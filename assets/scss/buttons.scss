@@ -7,7 +7,7 @@
 }
 
 .btn-primary {
-  @apply border-primary bg-primary dark:border-darkmode-primary dark:text-dark text-white dark:bg-white hover:bg-light hover:border-light hover:text-white hover:dark:bg-light hover:dark:border-light hover:dark:text-white;
+  @apply border-primary bg-primary dark:border-primary dark:text-white text-white dark:bg-primary hover:bg-light hover:border-light hover:text-white hover:dark:bg-light hover:dark:border-light hover:dark:text-white disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:bg-primary disabled:hover:border-primary disabled:hover:text-white;
 }
 
 .btn-outline-primary {

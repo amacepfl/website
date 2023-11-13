@@ -1,7 +1,7 @@
 <div class="bg-body dark:bg-darkmode-body">
   {{ $image:= .Params.thumbnail }}
   {{ if $image }}
-  <a href="{{ .RelPermalink }}">
+  <a href="{{if .Params.url }}{{ .Params.url }}{{else}}{{ .RelPermalink }}{{end}}">
     {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded-t-xl") }}
   </a>
   {{ end }}
@@ -11,13 +11,8 @@
         {{ .Title }}
       </a>
     </h4>
-    <ul class="mb-4">
-      <li class="mr-4 inline-block">
-          <i class="fa-regular fa-circle-user mr-2"></i>{{ .Params.author }}
-      </li>
-    </ul>
     <p class="mb-6 text-justify">{{ .Summary }}</p>
-    <a class="flex btn btn-primary btn-sm ml-auto" href="{{ .RelPermalink }}">
+    <a class="flex btn btn-primary btn-sm ml-auto" href="{{if .Params.url }}{{ .Params.url }}{{else}}{{ .RelPermalink }}{{end}}">
       {{ i18n "read_more" }}
     </a>
   </div>

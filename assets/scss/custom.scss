@@ -10,3 +10,7 @@
         text-shadow: 0 0 8px #000;
     }
 }
+
+.disabled {
+    @apply opacity-50 pointer-events-none;
+}
