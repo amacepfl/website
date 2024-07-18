@@ -1,5 +1,5 @@
 ---
-title: "Le Comité"
+title: "Le Comité testttttttttttttttttttttttttttttttttttt"
 # meta title
 meta_title: ""
 # meta description
