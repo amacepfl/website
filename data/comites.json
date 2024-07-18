@@ -26,47 +26,47 @@
             }, {
                 "name": "Perujo Loris",
                 "role": "Responsable Pôle Soirées",
-                "icon": "fas fa-gamepad",
+                "icon": "fas fa-volume-up",
                 "email": "events@amacepfl.ch"
            }, {
                 "name": "",
                 "role": "Responsable Pôle MécaTravel",
-                "icon": "fas fa-car",
+                "icon": "fas fa-globe-africa",
                 "email": "mecatravel@amacepfl.ch"
             }, {
                 "name": "Ashley Rose Lideo",
                 "role": "Responsable Communication",
-                "icon": "fas fa-bullhorn",
+                "icon": "fas fa-mobile-alt",
                 "email": "communication@amacepfl.ch"
             }, {
                 "name": "Antonin Louis Gasser",
                 "role": "Graphiste",
-                "icon": "fas fa-bullhorn",
+                "icon": "fas fa-paint-brush",
                 "email": "graphiste@amacepfl.ch"
             }, {
                 "name": "Marc-Antonio Chalhoub",
                 "role": "Webmaster",
-                "icon": "fas fa-code",
+                "icon": "fas fa-sitemap",
                 "email": "webmaster@amacepfl.ch"
            }, {
                 "name": "Pierre-Antoine Etienne Marie Chaker",
                 "role": "Responsable Sponsoring",
-                "icon": "fas fa-code",
+                "icon": "fas fa-comments-dollar",
                 "email": "sponsoring@amacepfl.ch"
           }, {
                 "name": "Mohamed Ayoub Khelifi",
                 "role": "Responsable Logistique",
-                "icon": "fas fa-code",
+                "icon": "fas fa-warehouse",
                 "email": "webmaster@amacepfl.ch"
           }, {
                 "name": "Arthur Louis Alexandre José Kotliarov",
                 "role": "Responsable Pôle ENTROPIQUE",
-                "icon": "fas fa-code",
+                "icon": "fas fa-beer",
                 "email": "webmaster@amacepfl.ch"
           }, {
                 "name": "Katharina Lea Vogt",
                 "role": "Responsable Logistique Pôle ENTROPIQUE",
-                "icon": "fas fa-code",
+                "icon": "fas fa-dolly-flatbed",
                 "email": "webmaster@amacepfl.ch"
             }
         ]
