@@ -2,7 +2,7 @@
 title: "Fondue GM"
 subtitle: "16 Novembre 2023"
 date: 2023-11-08
-draft: false
+draft: true
 description: "Le 16 novembre 2023 à l'Ornithorynque"
 author: "Pôle Anim'"
 thumbnail: "/images/blog/fonduenov23.png"
