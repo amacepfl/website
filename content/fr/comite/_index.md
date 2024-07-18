@@ -51,5 +51,6 @@ Le Comité, c’est là où la plupart des décisions sont prises. Composé d’
 - Les **Membres Pôle ENTROPIQUE** participent à l’organisation des événements et à la production de bière artisanale. Ils assistent le responsable du pôle dans ses tâches et contribuent au succès des initiatives entropiques.
 
 
-(Si l’un de ces postes te motive, n’hésite pas à te renseigner auprès de la personne active en ce moment, et si l’aventure te tente)
-(La gestion des membres et de la direction du Pôle ENTROPIQUE se fait par l'AG du même pôle)
+Si l’un de ces postes te motive, n’hésite pas à te renseigner auprès de la personne active en ce moment, et si l’aventure te tente.
+
+La gestion des membres et de la direction du Pôle ENTROPIQUE se fait par l'AG de l'Association ENTROPIQUE inscrite en tant qu'association de la Ville de Lausanne.
