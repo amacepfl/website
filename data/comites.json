@@ -1,5 +1,117 @@
 [
-    {
+
+{
+        "year": "2024-2025",
+        "members": [
+            {
+                "name": "Loris Perujo",
+                "role": "Président",
+                "icon": "fas fa-microphone-alt",
+                "email": "president@amacepfl.ch"
+            },{
+                "name": "Marc-Antonio Chalhoub",
+                "role": "Vice-Président",
+                "icon": "fas fa-user-friends",
+                "email": "vice-president@amacepfl.ch"
+            }, {
+                "name": "Pierre-Antoine Etienne Marie Chaker",
+                "role": "Trésorier",
+                "icon": "fas fa-money-bill-wave",
+                "email": "tresorier@amacepfl.ch"
+            }, {
+                "name": "Pierre Jean-François Hervé Griffon",
+                "role": "Responsable Pôle Animation",
+                "icon": "fas fa-gamepad",
+                "email": "animation@amacepfl.ch"
+            }, {
+                "name": "Perujo Loris",
+                "role": "Responsable Pôle Soirées",
+                "icon": "fas fa-gamepad",
+                "email": "events@amacepfl.ch"
+           }, {
+                "name": "",
+                "role": "Responsable Pôle MécaTravel",
+                "icon": "fas fa-car",
+                "email": "mecatravel@amacepfl.ch"
+            }, {
+                "name": "Ashley Rose Lideo",
+                "role": "Responsable Communication",
+                "icon": "fas fa-bullhorn",
+                "email": "communication@amacepfl.ch"
+            }, {
+                "name": "Antonin Louis Gasser",
+                "role": "Graphiste",
+                "icon": "fas fa-bullhorn",
+                "email": "graphiste@amacepfl.ch"
+            }, {
+                "name": "Marc-Antonio Chalhoub",
+                "role": "Webmaster",
+                "icon": "fas fa-code",
+                "email": "webmaster@amacepfl.ch"
+           }, {
+                "name": "Pierre-Antoine Etienne Marie Chaker",
+                "role": "Responsable Sponsoring",
+                "icon": "fas fa-code",
+                "email": "sponsoring@amacepfl.ch"
+          }, {
+                "name": "Mohamed Ayoub Khelifi",
+                "role": "Responsable Logistique",
+                "icon": "fas fa-code",
+                "email": "webmaster@amacepfl.ch"
+          }, {
+                "name": "Arthur Louis Alexandre José Kotliarov",
+                "role": "Responsable Pôle ENTROPIQUE",
+                "icon": "fas fa-code",
+                "email": "webmaster@amacepfl.ch"
+          }, {
+                "name": "Katharina Lea Vogt",
+                "role": "Responsable Logistique Pôle ENTROPIQUE",
+                "icon": "fas fa-code",
+                "email": "webmaster@amacepfl.ch"
+            }
+        ]
+    }, {
+        "year": "2023-2024",
+        "members": [
+            {
+                "name": "Axel Guède",
+                "role": "Président",
+                "icon": "fas fa-microphone-alt",
+                "email": "president@amacepfl.ch"
+            },
+            {
+                "name": "Benoît Marie Félicien Prudhomme-Lacroix",
+                "role": "Vice-Président",
+                "icon": "fas fa-user-friends",
+                "email": "vice-president@amacepfl.ch"
+            }, {
+                "name": "Loris Perujo",
+                "role": "Trésorier",
+                "icon": "fas fa-money-bill-wave",
+                "email": "tresorier@amacepfl.ch"
+            }, {
+                "name": "Mickaël Antille",
+                "role": "Responsable Animation",
+                "icon": "fas fa-gamepad",
+                "email": "animation@amacepfl.ch"
+            }, {
+                "name": "Louis Seurre",
+                "role": "Responsable Communication",
+                "icon": "fas fa-bullhorn",
+                "email": "communication@amacepfl.ch"
+            }, {
+                "name": "Pierre Jean-François Hervé Griffon",
+                "role": "Responsable MécaTravel",
+                "icon": "fas fa-car",
+                "email": "mecatravel@amacepfl.ch"
+            }, {
+                "name": "Antonin Faure",
+                "role": "Webmaster",
+                "icon": "fas fa-code",
+                "email": "webmaster@amacepfl.ch"
+            }
+        ]
+    }, {
         "year": "2022-2023",
         "members": [
             {
