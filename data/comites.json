@@ -57,17 +57,17 @@
                 "name": "Mohamed Ayoub Khelifi",
                 "role": "Responsable Logistique",
                 "icon": "fas fa-warehouse",
-                "email": "webmaster@amacepfl.ch"
+                "email": "logistique@amacepfl.ch"
           }, {
                 "name": "Arthur Louis Alexandre José Kotliarov",
                 "role": "Responsable Pôle ENTROPIQUE",
                 "icon": "fas fa-beer",
-                "email": "webmaster@amacepfl.ch"
+                "email": "arthur.kotliarov@epfl.ch"
           }, {
                 "name": "Katharina Lea Vogt",
                 "role": "Responsable Logistique Pôle ENTROPIQUE",
                 "icon": "fas fa-dolly-flatbed",
-                "email": "webmaster@amacepfl.ch"
+                "email": "katharina.vogt@epfl.ch"
             }
         ]
     }, {
