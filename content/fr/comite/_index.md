@@ -33,12 +33,13 @@ Le Comité, c’est là où la plupart des décisions sont prises. Composé d’
 - Le **Webmaster** est en charge du site web ainsi que des autres outils informatiques internes.
 
 - Le **Responsable Sponsoring** a pour but de développer nos relations avec les entreprises et potentiels partenaires.
+
+- Le **Responsable Logistique** est en charge de la logistique pour l'ensemble des activités de l'association. Il gère l’organisation matérielle, les équipements nécessaires et assure que tout soit en place pour le bon déroulement des événements.
   
 - Le **Responsable Pôle ENTROPIQUE** supervise l’organisation des événements et la production de bière artisanale. Il coordonne les différentes activités de ce pôle pour assurer leur succès et veille à ce que toutes les initiatives soient bien gérées.
   
 - Le **Responsable Logistique Pôle ENTROPIQUE** s'occupe de tous les aspects logistiques des événements organisés par le pôle ENTROPIQUE. Cela inclut la gestion des stocks de bière, la mise en place des infrastructures nécessaires et la coordination des équipes sur le terrain.
 
-- Le **Responsable Logistique** est en charge de la logistique pour l'ensemble des activités de l'association. Il gère l’organisation matérielle, les équipements nécessaires et assure que tout soit en place pour le bon déroulement des événements.
 
 **Membres**
 
