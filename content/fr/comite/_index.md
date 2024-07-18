@@ -8,7 +8,7 @@ description: "Comité de l'AMAC"
 draft: false    
 ---
 
-Le Comité, c’est là où la plupart des décisions sont prises. Composé d’étudiants en Génie Mécanique, le Comité de direction sont élus à l’occasion des Assemblées Générales (AG) et le Comité de l'AMAC ainsi que les membres sont choisi par le Comité de direction. Le Comité est le centre de contrôle de l’association, en contact plus ou moins étroit avec les autres instances tant associatives qu’administratives.
+Le Comité, c’est là où la plupart des décisions sont prises. Composé d’étudiants en Génie Mécanique, le Comité de direction est élu à l’occasion des Assemblées Générales (AG) et le Comité de l'AMAC ainsi que les membres sont choisis par le Comité de direction. Le Comité est le centre de contrôle de l’association, en contact plus ou moins étroit avec les autres instances tant associatives qu’administratives.
 
 **Comité de direction**
 
@@ -16,17 +16,17 @@ Le Comité, c’est là où la plupart des décisions sont prises. Composé d’
 
 - Le **Vice-Président** a pour rôle d’épauler les autres postes, tant en force de travail qu’en tant que support formel. Il coordonne les différents pôles et harmonise les documents, demandes, et permet une communication plus efficace tant au sein de l’association qu’avec l’extérieur.
 
-- Le **Trésorier**, c’est le nerf de la guerre. Des comptes bien gérés et propre ainsi qu’une planification des moyens financiers permettent de faire plus avec moins. Les événements, visites, soupers et autres apéros reposent en grande partie sur lui. Il a pour responsabilité de tenir les comptes.
+- Le **Trésorier**, c’est le nerf de la guerre. Des comptes bien gérés et propres ainsi qu’une planification des moyens financiers permettent de faire plus avec moins. Les événements, visites, soupers et autres apéros reposent en grande partie sur lui. Il a pour responsabilité de tenir les comptes.
 
 **Comité**
 
-- Le **Responsable Pôle Animation** est lui responsable d’apporter le réconfort après l’effort. L’organisation de goûters et apéros post-examens, ainsi que des soupers de section font de lui une pierre angulaire sur laquelle se repose la cohésion et bonne entente de la section dans son ensemble.
+- Le **Responsable Pôle Animation** est responsable d’apporter le réconfort après l’effort. L’organisation de goûters et apéros post-examens, ainsi que des soupers de section font de lui une pierre angulaire sur laquelle se repose la cohésion et bonne entente de la section dans son ensemble.
 
 - Le **Responsable Pôle Soirées** s'occupe de l'organisation et de la gestion des soirées étudiantes. Il planifie, coordonne et met en œuvre des événements festifs tout au long de l'année, en veillant à ce que chaque soirée soit une expérience mémorable et sécurisée pour tous les participants.
 
-- Le **Responsable Pôle Méca-Travel** est le responsable du voyage d’études de troisième année. De la destination à la récolte de fond, il travaille avec le reste de l’association pour permettre à chaque volée de voyager. Il dispose de sa propre équipe qui travaille afin de proposer des moyens efficaces et peut-être originaux de lever les fonds nécessaires pour ce voyage.
+- Le **Responsable Pôle Méca-Travel** est chargé du voyage d’études de troisième année. De la destination à la récolte de fonds, il travaille avec le reste de l’association pour permettre à chaque volée de voyager. Il dispose de sa propre équipe qui travaille afin de proposer des moyens efficaces et peut-être originaux de lever les fonds nécessaires pour ce voyage.
 
-- Le **Responsable Communication** à pour but de planifier la communication sur l'année. En charge des réseaux sociaux, il s'occupe de la vitrine de l'association et de ses activités.
+- Le **Responsable Communication** a pour but de planifier la communication sur l'année. En charge des réseaux sociaux, il s'occupe de la vitrine de l'association et de ses activités.
 
 - Le **Graphiste** est responsable de toute la conception visuelle pour l’association. Il crée des affiches, des bannières, des logos et tout autre support graphique nécessaire pour promouvoir les événements et les activités de l'association.
   
