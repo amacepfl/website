@@ -1,8 +1,8 @@
 ---
 title: "Fondue GM 2024"
 data_ref: "fondue2024"
-thumbnail: "/images/shop/pull2023.png"
-image: "/images/shop/pull2023.png"
+thumbnail: "assets/images/image-gens-fondue.JPG"
+image: "assets/images/image-fondue.JPG"
 name: "Fondue GM 2024"
 price: "12 CHF"
 draft: false
