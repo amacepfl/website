@@ -2,7 +2,7 @@
 title: "Fondue GM"
 subtitle: "05 Novembre 2024"
 date: 2023-11-05
-draft: false
+draft: true
 description: "Le 05 novembre 2024 à l'Ornithorynque"
 author: "Pôle Anim'"
 thumbnail: "/images/blog/fonduenov23.png"
