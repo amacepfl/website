@@ -17,26 +17,26 @@
                     "name": "Bottle Green",
                     "code": "bottle",
                     "text_color": "#000",
-                    "bg_color": "#eee"
+                    "bg_color": "#255644"
                 },
-                {
-                    "name": "French Navy",
-                    "code": "navy",
+               {
+                    "name": "Heritage Brown",
+                    "code": "brown",
                     "text_color": "#fff",
-                    "bg_color": "#282632"
+                    "bg_color": "#a54c3a"
                 },
                 {
                     "name": "Burgundy",
                     "code": "burgundy",
                     "text_color": "#fff",
                     "bg_color": "#95353F"
-                },
-                {
-                    "name": "Heritage Brown",
-                    "code": "brown",
+                }, 
+              {
+                    "name": "French Navy",
+                    "code": "navy",
                     "text_color": "#fff",
-                    "bg_color": "#333D31"
-                }
+                    "bg_color": "#1b2a39"
+                },
             ]
         },
         {
