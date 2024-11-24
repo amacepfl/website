@@ -1,5 +1,5 @@
 {
-    "reference": "pull2023",
+    "reference": "pull2024",
     "options": [
         {
             "code": "color",
@@ -8,52 +8,34 @@
             "default": "black",
             "values": [
                 {
-                    "name": "Black Smoke",
+                    "name": "Black",
                     "code": "black",
                     "text_color": "#fff",
                     "bg_color": "#38343B"
                 },
                 {
-                    "name": "Artic White",
-                    "code": "white",
+                    "name": "Bottle Green",
+                    "code": "bottle",
                     "text_color": "#000",
                     "bg_color": "#eee"
                 },
                 {
-                    "name": "New French Navy",
+                    "name": "French Navy",
                     "code": "navy",
                     "text_color": "#fff",
                     "bg_color": "#282632"
                 },
                 {
-                    "name": "Fire Red",
-                    "code": "red",
+                    "name": "Burgundy",
+                    "code": "burgundy",
                     "text_color": "#fff",
                     "bg_color": "#95353F"
                 },
                 {
-                    "name": "Green Forest",
-                    "code": "green",
+                    "name": "Heritage Brown",
+                    "code": "brown",
                     "text_color": "#fff",
                     "bg_color": "#333D31"
-                },
-                {
-                    "name": "Burgundy",
-                    "code": "burgundy",
-                    "text_color": "#fff",
-                    "bg_color": "#4E242F"
-                },
-                {
-                    "name": "Baby Pink",
-                    "code": "pink",
-                    "text_color": "#fff",
-                    "bg_color": "#E3D5E0"
-                },
-                {
-                    "name": "Airforce Blue",
-                    "code": "blue",
-                    "text_color": "#fff",
-                    "bg_color": "#4C546B"
                 }
             ]
         },
@@ -63,10 +45,6 @@
             "type": "select",
             "default": "m",
             "values": [
-                {
-                    "name": "XS",
-                    "code": "xs"
-                },
                 {
                     "name": "S",
                     "code": "s"
@@ -88,1576 +66,175 @@
                     "code": "xxl"
                 }
             ]
-        },
-        {
-            "code": "capuche",
-            "name": "Capuche",
-            "type": "select",
-            "default": "avec",
-            "values": [
-                {
-                    "name": "Avec",
-                    "code": "avec"
-                },
-                {
-                    "name": "Sans",
-                    "code": "sans"
-                }
-            ]
-        },
-        {
-            "code": "coeur",
-            "name": "Logo Coeur",
-            "type": "images",
-            "default": "1",
-            "values": [
-                {
-                    "code": "1",
-                    "url": "images/shop/pull2023/coeur1.jpeg"
-                },
-                {
-                    "code": "2",
-                    "url": "images/shop/pull2023/coeur2.jpeg"
-                }
-            ]
         }
     ],
     "articles": [
         {
-            "capuche": "avec",
-            "size": "xs",
+            "size": "s",
             "color": "black",
-            "coeur": "1",
             "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
-            "image": "pull2023_black_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/6oE16keC5bhlel2cTB",
-            "image": "pull2023_black_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/14k2aoalP0CHa4M6ve",
-            "image": "pull2023_black_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR62aoctX5X12Ckf1L",
-            "image": "pull2023_black_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEUg1e8dH3OT7WE3j4",
-            "image": "pull2023_white_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR65mA9hLdptel27zl",
-            "image": "pull2023_white_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28o16kbpTgBF4Ks1aY",
-            "image": "pull2023_white_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/eVa3es51v0CH1yg1aZ",
-            "image": "pull2023_white_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/6oE2ao0Lf1GLb8Q8Ds",
-            "image": "pull2023_navy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00gg1e3Xrbhl6SA9Hx",
-            "image": "pull2023_navy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/cN2aGUalPadhb8Q2f6",
-            "image": "pull2023_navy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3cs02ggKd5X12CkdXP",
-            "image": "pull2023_navy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/4gw8yMeC5gBF90IcTM",
-            "image": "pull2023_red_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gwbKY0Lf99d6SA5rl",
-            "image": "pull2023_red_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVaeXaalPbhl4KscTO",
-            "image": "pull2023_red_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR66qE8dH4SXfp69HD",
-            "image": "pull2023_red_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQeXa79D1GL7WE3jg",
-            "image": "pull2023_green_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kA02g3Xr2KP2CkcTR",
-            "image": "pull2023_green_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/5kA4iw79D4SX90I076",
-            "image": "pull2023_green_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/7sI8yM2Tnetx4Ks4nn",
-            "image": "pull2023_green_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wM5mAfG94SXccU3jk",
-            "image": "pull2023_burgundy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3csg1egKd715b8QcTV",
-            "image": "pull2023_burgundy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/14kbKY65zdpt5Ow5ru",
-            "image": "pull2023_burgundy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kA5mA8dH1GL5Ow4nr",
-            "image": "pull2023_burgundy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28o8yM3XrgBFgta07c",
-            "image": "pull2023_pink_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/cN27uI8dH2KPccU3jp",
-            "image": "pull2023_pink_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/cN2dT6eC5dptgta3jq",
-            "image": "pull2023_pink_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/9AQ02galPbhl5Ow4nv",
-            "image": "pull2023_pink_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/4gweXa3Xr0CH0uc6vE",
-            "image": "pull2023_blue_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xs",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kA7uI0Lfclpgta9HR",
-            "image": "pull2023_blue_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/6oE4iw8dHclpdgYbQ0",
-            "image": "pull2023_blue_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xs",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZe7uIbpT99d3Go8DP",
-            "image": "pull2023_blue_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/7sI4iw51vclp7WEeWT",
-            "image": "pull2023_black_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kA8yM1Pj2KPccUbKI",
-            "image": "pull2023_black_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEU7uI65zclpel2g0Z",
-            "image": "pull2023_black_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gw16kctX0CH7WEaGG",
-            "image": "pull2023_black_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wMbKYctX4SXccU167",
-            "image": "pull2023_white_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00gaGU9hL2KP1yg6qs",
-            "image": "pull2023_white_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wMeXabpT0CHa4McOR",
-            "image": "pull2023_white_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/28obKYdy13OT0uc8yC",
-            "image": "pull2023_white_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQcP2ctX7155Ow16b",
-            "image": "pull2023_navy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/aEUbKY8dHfxBa4M2ag",
-            "image": "pull2023_navy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVa6qE0Lfclpfp6cOV",
-            "image": "pull2023_navy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/7sIaGU9hLfxB1ygeX4",
-            "image": "pull2023_navy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEUdT6eC5etx90I3en",
-            "image": "pull2023_red_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/8wM8yM0Lfetx1yg6qA",
-            "image": "pull2023_red_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/00geXactXgBFfp66qB",
-            "image": "pull2023_red_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kAg1ectX5X12CkbKW",
-            "image": "pull2023_red_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/bIY9CQgKddpt6SAg1d",
-            "image": "pull2023_green_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3cs16k8dH4SX1ygbKY",
-            "image": "pull2023_green_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28ocP2alP2KP4Ks7uJ",
-            "image": "pull2023_green_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR6bKYalP1GL6SA9CS",
-            "image": "pull2023_green_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wM5mA51vgBF2CkbL1",
-            "image": "pull2023_burgundy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00gcP2bpTbhla4M4iA",
-            "image": "pull2023_burgundy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEUaGUgKd7153GobL3",
-            "image": "pull2023_burgundy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/cN22ao3Xr3OT0uccP8",
-            "image": "pull2023_burgundy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEU16k3XrbhlccU5mH",
-            "image": "pull2023_pink_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00g9CQ8dH5X1dgYaH2",
-            "image": "pull2023_pink_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/7sIdT6alPgBFccU16t",
-            "image": "pull2023_pink_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/aEUg1egKdetx90I8yW",
-            "image": "pull2023_pink_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/5kAeXa3Xr2KP90I02r",
-            "image": "pull2023_blue_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "s",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/7sIdT69hLclp0uceXm",
-            "image": "pull2023_blue_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/dR69CQctXbhlccU02t",
-            "image": "pull2023_blue_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "s",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZebKY8dH3OT7WE3eG",
-            "image": "pull2023_blue_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
+            "image": "pull-2024-black.png"
+        }, 
+      {
             "size": "m",
             "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/bIY02g9hL0CH3Go4iL",
-            "image": "pull2023_black_coeur-1_avec-capuche.jpeg"
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-black.png"
         },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZe9CQalPfxBdgY7uY",
-            "image": "pull2023_black_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/7sIdT61Pjetxb8Q8z3",
-            "image": "pull2023_black_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/bIYcP2dy1gBF6SA7v0",
-            "image": "pull2023_black_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/4gw4iwalP8596SA9D9",
-            "image": "pull2023_white_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR65mAgKd5X1dgYcPm",
-            "image": "pull2023_white_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/14kg1ealP1GL0ucg1z",
-            "image": "pull2023_white_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/bIY8yM2Tn5X1gta5mW",
-            "image": "pull2023_white_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28o9CQ0Lf99d0uc2aL",
-            "image": "pull2023_navy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/bIY16k1Pjadhb8QeXy",
-            "image": "pull2023_navy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/3cseXa79D859fp6bLn",
-            "image": "pull2023_navy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/8wM4iw65z1GLfp68zc",
-            "image": "pull2023_navy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/5kA2ao1Pj5X15Ow9Dh",
-            "image": "pull2023_red_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR68yM0Lf859b8Q02I",
-            "image": "pull2023_red_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/3csaGUalP715dgY7vb",
-            "image": "pull2023_red_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3csdT6fG98597WEcPw",
-            "image": "pull2023_red_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/fZeeXa79D3OT4Ks16P",
-            "image": "pull2023_green_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/cN27uI65z4SX2CkbLu",
-            "image": "pull2023_green_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/14k5mAalP2KP3Go02N",
-            "image": "pull2023_green_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/7sI3es1Pjadh2Ck6rc",
-            "image": "pull2023_green_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/6oEaGUbpT0CHgta02P",
-            "image": "pull2023_burgundy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/bIYaGU3XrfxB0ucg1O",
-            "image": "pull2023_burgundy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/dR6bKY3Xr8593Go16V",
-            "image": "pull2023_burgundy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/28odT61Pjdptel29Ds",
-            "image": "pull2023_burgundy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/bIY16k8dH3OT2Ck02T",
-            "image": "pull2023_pink_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3cscP2eC5dpta4Mg1S",
-            "image": "pull2023_pink_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/00g9CQ51v4SXa4M4jb",
-            "image": "pull2023_pink_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00g6qE1Pj8596SAeXQ",
-            "image": "pull2023_pink_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/3cscP2fG9bhlccU6rl",
-            "image": "pull2023_blue_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "m",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00g5mA51v5X12CkbLG",
-            "image": "pull2023_blue_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/14k5mActX859dgY02Z",
-            "image": "pull2023_blue_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "m",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/14k4iweC5859dgYcPM",
-            "image": "pull2023_blue_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
+       {
             "size": "l",
             "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/fZe5mA65z1GL7WEaHF",
-            "image": "pull2023_black_coeur-1_avec-capuche.jpeg"
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-black.png"
         },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00g02g51vclpdgY5nm",
-            "image": "pull2023_black_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/7sI5mAbpT7156SA5nn",
-            "image": "pull2023_black_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/eVadT62TngBF6SA2bc",
-            "image": "pull2023_black_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wM16k9hLgBF1ygdTV",
-            "image": "pull2023_white_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/00g6qEctX2KPa4M7vy",
-            "image": "pull2023_white_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wM3es79D715ccU037",
-            "image": "pull2023_white_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/aEUaGU2Tn715a4MaHM",
-            "image": "pull2023_white_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/cN2bKYdy1bhl1yg2bh",
-            "image": "pull2023_navy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZe4iwgKdfxB0ucdU0",
-            "image": "pull2023_navy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wMdT6eC54SXb8QeY5",
-            "image": "pull2023_navy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3cs5mA1Pj5X12Ck03c",
-            "image": "pull2023_navy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/bIY9CQgKd3OTgta8zJ",
-            "image": "pull2023_red_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/eVa9CQ3Xr7157WEdU4",
-            "image": "pull2023_red_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVa4iwctXfxB0ucbLX",
-            "image": "pull2023_red_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/aEUaGU51v715b8QeYa",
-            "image": "pull2023_red_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/dR6g1e51vbhl7WE7vJ",
-            "image": "pull2023_green_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/28o4iwfG9etx3Go6rG",
-            "image": "pull2023_green_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/00gcP2bpT2KP4Ks9DT",
-            "image": "pull2023_green_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/cN24iweC55X13Go8zQ",
-            "image": "pull2023_green_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVacP2fG97150uc4jB",
-            "image": "pull2023_burgundy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/6oEcP2alP3OTb8Q4jC",
-            "image": "pull2023_burgundy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEU5mA65z1GL3Go7vP",
-            "image": "pull2023_burgundy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/6oE8yM65z2KP4KsdUe",
-            "image": "pull2023_burgundy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/4gw2aody1715b8QaI3",
-            "image": "pull2023_pink_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kA5mA0Lfclpgta03q",
-            "image": "pull2023_pink_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28o6qEalP5X190Ig2p",
-            "image": "pull2023_pink_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/eVa6qE0Lf7154Ks17w",
-            "image": "pull2023_pink_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/7sI3es1Pj5X1dgYeYn",
-            "image": "pull2023_blue_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "l",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/14k16k51vclp3GodUk",
-            "image": "pull2023_blue_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/00g9CQalPgBFb8Q4jL",
-            "image": "pull2023_blue_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "l",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/28o6qEfG9adhgta6rU",
-            "image": "pull2023_blue_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
+       {
             "size": "xl",
             "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/7sI3eseC5etxdgYdUn",
-            "image": "pull2023_black_coeur-1_avec-capuche.jpeg"
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-black.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/14k5mAeC5etx0ucbMg",
-            "image": "pull2023_black_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/00g16k9hL1GLgta03z",
-            "image": "pull2023_black_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/28o02g2Tn1GL6SA6rY",
-            "image": "pull2023_black_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVag1e0Lf715fp64jR",
-            "image": "pull2023_white_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR6g1e3Xr0CHel24jS",
-            "image": "pull2023_white_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVa2aoeC571590I4jT",
-            "image": "pull2023_white_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZe4iw65z8590uc03E",
-            "image": "pull2023_white_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVaaGUgKdbhlgtacQr",
-            "image": "pull2023_navy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/7sIg1eeC54SX3GodUw",
-            "image": "pull2023_navy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28o2ao65z4SXb8QbMp",
-            "image": "pull2023_navy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gw6qEctXfxB4Ks3fU",
-            "image": "pull2023_navy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVaaGU65z3OT4Ks9Ej",
-            "image": "pull2023_red_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/6oEaGU8dHetx2Ck4k0",
-            "image": "pull2023_red_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/bIYdT6dy13OT6SA5o5",
-            "image": "pull2023_red_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gwcP2eC54SXel23fY",
-            "image": "pull2023_red_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/fZe8yM1Pjclp0uc7wf",
-            "image": "pull2023_green_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/cN24iw51vetx90I2bW",
-            "image": "pull2023_green_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQ6qEeC55X1ccU3g1",
-            "image": "pull2023_green_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/28o7uI1Pj4SXel2aIu",
-            "image": "pull2023_green_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/6oE7uIfG9etxfp6eYL",
-            "image": "pull2023_burgundy_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/6oE7uI65z5X14Ks2c0",
-            "image": "pull2023_burgundy_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wM16k9hLfxBb8Q5od",
-            "image": "pull2023_burgundy_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/7sI9CQ79D2KP7WE6si",
-            "image": "pull2023_burgundy_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/eVaaGU2Tn2KP7WE9Ev",
-            "image": "pull2023_pink_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR6eXa9hLgBF7WE3g8",
-            "image": "pull2023_pink_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/dR65mA3Xr1GLel2bMF",
-            "image": "pull2023_pink_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/8wM2ao2TngBF0uc9Ey",
-            "image": "pull2023_pink_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/cN2cP251v859ccU3gb",
-            "image": "pull2023_blue_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xl",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZe5mA8dH5X12Ck3gc",
-            "image": "pull2023_blue_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/14k3es9hL859el2bMJ",
-            "image": "pull2023_blue_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xl",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/cN2aGU3Xr99db8Q5om",
-            "image": "pull2023_blue_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
+       {
             "size": "xxl",
             "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQ3es0Lf8595Ow2cb",
-            "image": "pull2023_black_coeur-1_avec-capuche.jpeg"
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-black.png"
         },
-        {
-            "capuche": "avec",
+
+      {
+            "size": "s",
+            "color": "bottle",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-bottle.png"
+        }, 
+      {
+            "size": "m",
+            "color": "bottle",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-bottle.png"
+        },
+       {
+            "size": "l",
+            "color": "bottle",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-bottle.png"
+        },
+       {
+            "size": "xl",
+            "color": "bottle",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-bottle.png"
+        },
+       {
             "size": "xxl",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/5kAbKY0LffxB0uc9EE",
-            "image": "pull2023_black_coeur-2_avec-capuche.jpeg"
+            "color": "bottle",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-bottle.png"
         },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "black",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/cN26qE9hLdptfp63gh",
-            "image": "pull2023_black_coeur-1_sans-capuche.jpeg"
+
+      {
+            "size": "s",
+            "color": "navy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-navy.png"
+        }, 
+      {
+            "size": "m",
+            "color": "navy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-navy.png"
         },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "black",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR602g2Tn1GLdgY5oq",
-            "image": "pull2023_black_coeur-2_sans-capuche.jpeg"
+       {
+            "size": "l",
+            "color": "navy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-navy.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQ2aody1715dgY2cf",
-            "image": "pull2023_white_coeur-1_avec-capuche.jpeg"
+       {
+            "size": "xl",
+            "color": "navy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-navy.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/14k16k9hL3OT5OwaIM",
-            "image": "pull2023_white_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "white",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQ3es8dH5X15Ow3gl",
-            "image": "pull2023_white_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "white",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/6oE8yM9hLbhl4KsaIO",
-            "image": "pull2023_white_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
+       {
             "size": "xxl",
             "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/cN2g1e1Pj4SXel28AH",
-            "image": "pull2023_navy_coeur-1_avec-capuche.jpeg"
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-navy.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/8wM6qE2Tnbhl6SA6sA",
-            "image": "pull2023_navy_coeur-2_avec-capuche.jpeg"
+
+
+
+       {
+            "size": "s",
+            "color": "burgundy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-burgundy.png"
+        }, 
+      {
+            "size": "m",
+            "color": "burgundy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-burgundy.png"
         },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "navy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/3cs02g2Tn5X13Go5ox",
-            "image": "pull2023_navy_coeur-1_sans-capuche.jpeg"
+       {
+            "size": "l",
+            "color": "burgundy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-burgundy.png"
         },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "navy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gw6qEctXdptccUbMW",
-            "image": "pull2023_navy_coeur-2_sans-capuche.jpeg"
+       {
+            "size": "xl",
+            "color": "burgundy",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-burgundy.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/aEU9CQ8dH859b8QeZ9",
-            "image": "pull2023_red_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/3cs02gctX859dgY7wI",
-            "image": "pull2023_red_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "red",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/28o6qE9hLgBFel27wJ",
-            "image": "pull2023_red_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "red",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gw16k8dHdpt5OwaIW",
-            "image": "pull2023_red_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/3cs7uIeC58593Go3gv",
-            "image": "pull2023_green_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/aEU7uIdy1gBF7WE7wM",
-            "image": "pull2023_green_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "green",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/fZedT60Lf99d6SAg3j",
-            "image": "pull2023_green_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "green",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/14kaGU3Xr2KP6SA4kC",
-            "image": "pull2023_green_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
+       {
             "size": "xxl",
             "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/8wM2ao0LffxB2CkdVd",
-            "image": "pull2023_burgundy_coeur-1_avec-capuche.jpeg"
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-burgundy.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/bIYg1eeC5715fp69EY",
-            "image": "pull2023_burgundy_coeur-2_avec-capuche.jpeg"
+
+
+
+      {
+            "size": "s",
+            "color": "brown",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-brown.png"
+        }, 
+      {
+            "size": "m",
+            "color": "brown",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-brown.png"
         },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "burgundy",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/5kA02gdy199da4M04p",
-            "image": "pull2023_burgundy_coeur-1_sans-capuche.jpeg"
+       {
+            "size": "l",
+            "color": "brown",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-brown.png"
         },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "burgundy",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/bIY6qE1Pj5X14KsaJ4",
-            "image": "pull2023_burgundy_coeur-2_sans-capuche.jpeg"
+       {
+            "size": "xl",
+            "color": "brown",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-brown.png"
         },
-        {
-            "capuche": "avec",
+       {
             "size": "xxl",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/6oE16k3Xrdpt6SA4kH",
-            "image": "pull2023_pink_coeur-1_avec-capuche.jpeg"
+            "color": "brown",
+            "url": "https://buy.stripe.com/14kaGUbpT7153GoaLs",
+            "image": "pull-2024-brown.png"
         },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/dR65mAdy199dfp66sQ",
-            "image": "pull2023_pink_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "pink",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/fZeaGUgKd859b8QbNb",
-            "image": "pull2023_pink_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "pink",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/14k2ao1Pjbhlfp69F4",
-            "image": "pull2023_pink_coeur-2_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/4gw4iw0Lf2KP0uc5oP",
-            "image": "pull2023_blue_coeur-1_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "avec",
-            "size": "xxl",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/fZe3eseC571590I6sU",
-            "image": "pull2023_blue_coeur-2_avec-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "blue",
-            "coeur": "1",
-            "url": "https://buy.stripe.com/9AQbKY0LfgBFccU04x",
-            "image": "pull2023_blue_coeur-1_sans-capuche.jpeg"
-        },
-        {
-            "capuche": "sans",
-            "size": "xxl",
-            "color": "blue",
-            "coeur": "2",
-            "url": "https://buy.stripe.com/4gwbKYbpT0CH2Ck2cG",
-            "image": "pull2023_blue_coeur-2_sans-capuche.jpeg"
-        }
+
+
+
+
+
+
+
+
+      
     ]
 }
