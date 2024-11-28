@@ -1,5 +1,5 @@
 ---
-title: "Association"
+title: "test"
 subtitle: "Par et pour les étudiant·e·s"
 # meta title
 meta_title: ""
