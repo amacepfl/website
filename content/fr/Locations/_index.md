@@ -5,7 +5,7 @@ subtitle: "Pour les étudiant·e·s et les Associations de l'EPFL"
 # meta title
 meta_title: ""
 # meta description
-description: "locations"
+description: "Locations"
 # save as draft
 draft: false        
 ---
@@ -22,12 +22,6 @@ LISTE MATERIEL:
 Prix de location pour une journée
 
 Mettre contact personne
-
-### Aider nous à vous aider
-
-Si vous avez des propositions de modification ou d’amélioration du site, c’est avec plaisir que nous prendrons votre requête en considération. 
-
-Ce site est créé et mis à jour par des êtres humains, il est certain que des erreurs aient été introduites. Si vous en localisez, n’hésiter pas à nous les signaler en nous contactant par mail.
 
 ### Devenir membre
 
