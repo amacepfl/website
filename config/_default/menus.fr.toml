@@ -39,7 +39,12 @@ url = "association/"
 [[main]]
 weight = 5
 name = "Shop"
-url = "shop"
+url = "shop/"
+
+[main]]
+weight = 6
+name = "Locations"
+url = "locations/"
 
 
 # footer menu
