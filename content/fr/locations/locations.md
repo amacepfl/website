@@ -6,7 +6,7 @@ meta_title: ""
 # meta description
 description: "Association"
 # save as draft
-draft: true        
+draft: false        
 ---
 
 L’AMAC est l’**Association des Étudiant·e·s en Génie Mécanique**. Elle est ouverte à tous·tes les étudiant·e·s, pourvue qu’iel fasse partie de la Section de Génie Mécanique. Toute personne motivée est la bienvenue, et plus l’association se développe, plus notre poids en tant qu’entité a de la valeur auprès des institutions. Et bien sûr, plus les événements organisés pourront être importants ! Que ce soit en tant que simple membre, ou en tant que membre du Comité, chaque personne a ses idées et son énergie à transmettre. Chaque membre s’investit à la hauteur de ses moyens !
