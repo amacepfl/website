@@ -44,7 +44,7 @@ url = "shop/"
 [[main]]
 weight = 6
 name = "Locations"
-url = "shop/"
+url = "Locations/"
 
 
 # footer menu
