@@ -13,7 +13,7 @@ Liste du matériel:
 
 | Objet                | Prix Étudiant       | Prix Associations       | Référence du produit  |
 |----------------------|---------------------|-------------------------|-----------------------|
-| **Soundboks**         | 20 CHF              | GRATUIT                 | [Lien Soundboks] (https://soundboks.com/products/soundboks-gen-3-refurbished)   |
+| **Soundboks**         | 20 CHF              | GRATUIT                 | [Lien Soundboks](https://soundboks.com/products/soundboks-gen-3-refurbished)   |
 | **Sound System** 2xDSP 18 Sub + 2xDSX 115     | 60 CHF              | PRIX SUR DEMANDE        | [Lien Sound System](https://www.thomannmusic.ch/intl/the_box_pro.html)|
 | **Grande Friteuse**   | Pas Disponible     | 30 CHF                  | [Lien Grande Friteuse](https://www.galaxus.ch/fr/s2/product/royal-catering-friteuse-electrique-2-x-16-litres-400-v-friteuse-41885447) |
 | **Petite Friteuse**   | 20 CHF              | 20 CHF                  |  | 
