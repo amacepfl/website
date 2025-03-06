@@ -19,7 +19,7 @@
                 "icon": "fas fa-money-bill-wave",
                 "email": "tresorier@amacepfl.ch"
             }, {
-                "name": "Pierre Jean-François Hervé Griffon",
+                "name": "Douae Oumous",
                 "role": "Responsable Pôle Animation",
                 "icon": "fas fa-utensils",
                 "email": "animation@amacepfl.ch"
@@ -34,17 +34,17 @@
                 "icon": "fas fa-globe-africa",
                 "email": "mecatravel@amacepfl.ch"
             }, {
-                "name": "Ashley Rose Lideo",
+                "name": "Naya Said",
                 "role": "Responsable Communication",
                 "icon": "fas fa-mobile-alt",
                 "email": "communication@amacepfl.ch"
             }, {
                 "name": "Antonin Louis Gasser",
-                "role": "Graphiste",
+                "role": "Graphiste/Déco",
                 "icon": "fas fa-paint-brush",
                 "email": "graphiste@amacepfl.ch"
             }, {
-                "name": "Marc-Antonio Chalhoub",
+                "name": "Naya Said",
                 "role": "Webmaster",
                 "icon": "fas fa-sitemap",
                 "email": "webmaster@amacepfl.ch"
@@ -58,17 +58,7 @@
                 "role": "Responsable Logistique",
                 "icon": "fas fa-warehouse",
                 "email": "logistique@amacepfl.ch"
-          }, {
-                "name": "Arthur Louis Alexandre José Kotliarov",
-                "role": "Responsable Pôle ENTROPIQUE",
-                "icon": "fas fa-beer",
-                "email": "arthur.kotliarov@epfl.ch"
-          }, {
-                "name": "Katharina Lea Vogt",
-                "role": "Responsable Logistique Pôle ENTROPIQUE",
-                "icon": "fas fa-dolly-flatbed",
-                "email": "katharina.vogt@epfl.ch"
-            }
+          }, 
         ]
     }, {
         "year": "2023-2024",
