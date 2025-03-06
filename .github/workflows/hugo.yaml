@@ -87,3 +87,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          artifact-name: hugo-site  # Assurez-vous que ce nom correspond à celui de l'upload
