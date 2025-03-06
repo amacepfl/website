@@ -79,7 +79,7 @@ jobs:
         run: ls -al ./public
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
 
