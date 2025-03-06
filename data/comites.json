@@ -8,7 +8,7 @@
                 "role": "Président",
                 "icon": "fas fa-microphone-alt",
                 "email": "president@amacepfl.ch"
-            },{
+            }, {
                 "name": "Marc-Antonio Chalhoub",
                 "role": "Vice-Président",
                 "icon": "fas fa-user-friends",
@@ -40,7 +40,7 @@
                 "email": "communication@amacepfl.ch"
             }, {
                 "name": "Antonin Louis Gasser",
-                "role": "Graphiste/Déco",
+                "role": "Graphiste et Déco",
                 "icon": "fas fa-paint-brush",
                 "email": "graphiste@amacepfl.ch"
             }, {
