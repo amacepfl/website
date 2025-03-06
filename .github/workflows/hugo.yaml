@@ -1,4 +1,3 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -34,6 +33,7 @@ env:
   TINA_TOKEN: ${{ vars.TINA_TOKEN }}
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
@@ -79,10 +79,11 @@ jobs:
         run: ls -al ./public
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           path: ./public
 
+  # Deployment job
   deploy:
     environment:
       name: github-pages
