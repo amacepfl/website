@@ -69,14 +69,14 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: List public directory
-        run: ls -al ./public
+        run: ls -al ./public  # Liste les fichiers générés dans le répertoire public
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: hugo-site
-          path: ./public
-
+          name: hugo-site  # Nom de l'artefact
+          path: ./public   # Chemin vers le répertoire généré
+          
   deploy:
     environment:
       name: github-pages
@@ -88,4 +88,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact_name: hugo-site  # Corrigé ici avec l'underscore
+          artifact_name: hugo-site  # Doit correspondre à celui de l'upload
