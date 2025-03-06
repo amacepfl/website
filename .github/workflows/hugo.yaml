@@ -68,8 +68,10 @@ jobs:
             --forceSyncStatic \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: List public directory
-        run: ls -al ./public  # Liste les fichiers générés dans le répertoire public
+      - name: List public directory (before upload)
+        run: |
+          echo "Listing files in ./public"
+          ls -al ./public  # Liste les fichiers dans le répertoire public
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -88,4 +90,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact_name: hugo-site  # Doit correspondre à celui de l'upload
+          artifact_name: hugo-site  # Correspond au nom de l'artefact téléchargé
