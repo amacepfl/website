@@ -13,7 +13,7 @@ Liste du matériel:
 
 | Objet                | Prix Étudiant       | Prix Associations       | Référence du produit  |
 |----------------------|---------------------|-------------------------|-----------------------|
-| **Soundboks**         | 30 CHF              | GRATUIT                 | [Lien Soundboks](https://soundboks.com/products/soundboks-gen-3-refurbished)   |
+| **Soundboks**         | 30 CHF              | 20 CHF                 | [Lien Soundboks](https://soundboks.com/products/soundboks-gen-3-refurbished)   |
 | **Sound System** 2xDSP 18 Sub + 2xDSX 115     | 100 CHF              | PRIX SUR DEMANDE        | [DSP 18 SUB](https://www.thomann.de/intl/the_box_pro_dsp_18_sub.htm) [DSX 115](https://www.thomann.de/intl/the_box_pro_dsx_115.htm)|
 | **Machine à Fumée** BeamZ S1500 (+5 chf avec liquide)     | 20 CHF              | PRIX SUR DEMANDE        | [Lien Machine à Fumée](https://www.galaxus.ch/fr/s1/product/beamz-s1500-machine-a-fumee-6057801?supplier=406802)|
 | **Grande Friteuse**   | Pas Disponible     | 30 CHF                  | [Lien Grande Friteuse](https://www.galaxus.ch/fr/s2/product/royal-catering-friteuse-electrique-2-x-16-litres-400-v-friteuse-41885447) |
