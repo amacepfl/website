@@ -12,9 +12,7 @@ Le Comité, c’est là où la plupart des décisions sont prises. Composé d’
 
 **Comité de direction**
 
-- Le **Président** est la figure principale du Comité et donc aussi de l’association dans son ensemble. Il est très souvent au contact de l’administration et défend donc les revendications des étudiants et de l’association.
-
-- Le **Vice-Président** a pour rôle d’épauler les autres postes, tant en force de travail qu’en tant que support formel. Il coordonne les différents pôles et harmonise les documents, demandes, et permet une communication plus efficace tant au sein de l’association qu’avec l’extérieur.
+- Les **Co-Présidents** sont la figure principale du Comité et donc aussi de l’association dans son ensemble. Ils sont très souvent au contact de l’administration et défendent donc les revendications des étudiants et de l’association.
 
 - Le **Trésorier**, c’est le nerf de la guerre. Des comptes bien gérés et propres ainsi qu’une planification des moyens financiers permettent de faire plus avec moins. Les événements, visites, soupers et autres apéros reposent en grande partie sur lui. Il a pour responsabilité de tenir les comptes.
 
@@ -48,8 +46,6 @@ Le Comité, c’est là où la plupart des décisions sont prises. Composé d’
 - Les **Membres Pôle Animation** soutiennent le responsable dans l’organisation des activités de détente et des événements sociaux. Ils contribuent à la planification et à l’animation des goûters, apéros et autres moments de convivialité.
 
 - Les **Membres Pôle Méca-Travel** assistent le responsable du pôle dans l’organisation du voyage d’études. Ils participent à la collecte de fonds, à la logistique et à la coordination des préparatifs pour le voyage.
-
-- Les **Membres Pôle ENTROPIQUE** participent à l’organisation des événements et à la production de bière artisanale. Ils assistent le responsable du pôle dans ses tâches et contribuent au succès des initiatives entropiques.
 
 
 Si l’un de ces postes te motive, n’hésite pas à te renseigner auprès de la personne active en ce moment, et si l’aventure te tente.
