@@ -1,6 +1,66 @@
 [
 
 {
+        "year": "2025-2026",
+        "members": [
+            {
+                "name": "Antonin Louis Gasser",
+                "role": "Co-Président",
+                "icon": "fas fa-microphone-alt",
+                "email": "president@amacepfl.ch"
+            }, {
+                "name": "Marc-Antonio Chalhoub",
+                "role": "Co-Président",
+                "icon": "fas fa-user-friends",
+                "email": "president@amacepfl.ch"
+            }, {
+                "name": "Alexandre El-Ashi",
+                "role": "Trésorier",
+                "icon": "fas fa-money-bill-wave",
+                "email": "tresorier@amacepfl.ch"
+            }, {
+                "name": "Nour El Béji",
+                "role": "Responsable Pôle Animation",
+                "icon": "fas fa-utensils",
+                "email": "animation@amacepfl.ch"
+            }, {
+                "name": "Lucien Schmid",
+                "role": "Responsable Pôle Soirées",
+                "icon": "fas fa-volume-up",
+                "email": "events@amacepfl.ch"
+           }, {
+                "name": "",
+                "role": "Responsable Pôle MécaTravel",
+                "icon": "fas fa-globe-africa",
+                "email": "mecatravel@amacepfl.ch"
+            }, {
+                "name": "Naya Said",
+                "role": "Responsable Communication",
+                "icon": "fas fa-mobile-alt",
+                "email": "communication@amacepfl.ch"
+            }, {
+                "name": "Hugo Alarcón Da Costa",
+                "role": "Graphiste et Déco",
+                "icon": "fas fa-paint-brush",
+                "email": "graphiste@amacepfl.ch"
+            }, {
+                "name": "Loris Perujo",
+                "role": "Webmaster",
+                "icon": "fas fa-sitemap",
+                "email": "webmaster@amacepfl.ch"
+           }, {
+                "name": "Gaïane Marie Alice Marc Fromage",
+                "role": "Responsable Sponsoring",
+                "icon": "fas fa-comments-dollar",
+                "email": "sponsoring@amacepfl.ch"
+          }, {
+                "name": "Jules Pierre Daniel Kojfer",
+                "role": "Responsable Logistique",
+                "icon": "fas fa-warehouse",
+                "email": "logistique@amacepfl.ch"
+          } 
+        ]
+    },{
         "year": "2024-2025",
         "members": [
             {
